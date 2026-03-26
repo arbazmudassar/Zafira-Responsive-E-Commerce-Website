@@ -68,11 +68,12 @@ https://arbazmudassar.github.io/Zafira-Responsive-E-Commerce-Website/
 ## 📸 Screenshots
 
 #HomePage
-<img width="1787" height="596" alt="Screenshot 2026-03-26 195245" src="https://github.com/user-attachments/assets/49dfbcc2-7509-4334-aa96-835248231493" />
-<img width="1798" height="833" alt="Screenshot 2026-03-26 195237" src="https://github.com/user-attachments/assets/de3cdba6-62e1-4093-857f-33774ce0a27b" />
-<img width="1784" height="850" alt="Screenshot 2026-03-26 195228" src="https://github.com/user-attachments/assets/f2d2a07c-71c2-491d-857b-a5e6ec262ff2" />
-<img width="1755" height="860" alt="Screenshot 2026-03-26 195219" src="https://github.com/user-attachments/assets/3c1d5480-671d-4c6d-aa24-5c0e339ab081" />
+
 <img width="1815" height="845" alt="Screenshot 2026-03-26 195202" src="https://github.com/user-attachments/assets/ad635977-0d24-4199-a0e2-04a04da935df" />
+<img width="1755" height="860" alt="Screenshot 2026-03-26 195219" src="https://github.com/user-attachments/assets/3c1d5480-671d-4c6d-aa24-5c0e339ab081" />
+<img width="1784" height="850" alt="Screenshot 2026-03-26 195228" src="https://github.com/user-attachments/assets/f2d2a07c-71c2-491d-857b-a5e6ec262ff2" />
+<img width="1798" height="833" alt="Screenshot 2026-03-26 195237" src="https://github.com/user-attachments/assets/de3cdba6-62e1-4093-857f-33774ce0a27b" />
+<img width="1787" height="596" alt="Screenshot 2026-03-26 195245" src="https://github.com/user-attachments/assets/49dfbcc2-7509-4334-aa96-835248231493" />
 
 #About Us Page
 <img width="1713" height="636" alt="Screenshot 2026-03-26 195334" src="https://github.com/user-attachments/assets/d5a82d1b-5993-46a2-a36f-061023be3767" />
